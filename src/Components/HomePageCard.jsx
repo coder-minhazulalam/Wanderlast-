@@ -4,9 +4,9 @@ const HomePageCard = () => {
     return (
 
 
-     <section className="w-12/13 mt-4 mx-auto flex items-center justify-between">
+     <section className=" w-full md:w-12/13 mt-4 mx-auto flex  items-center justify-between">
       <div className="p-5 ">
-        <h2 className="text-5xl font-bold text-black">
+        <h2 className="text-2xl md:text-5xl font-bold text-black">
           Featured Destinations
         </h2>
         <p className="mt-2 text-sm text-gray-500">
@@ -24,7 +24,6 @@ const HomePageCard = () => {
     </div>
 
     </section>
-
 
 
     );

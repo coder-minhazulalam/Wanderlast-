@@ -54,7 +54,7 @@ const Navbar = () => {
                 <NavLink href="/mybookings">My Bookings</NavLink>
               </li>
               <li>
-                <NavLink href="/admin">Admin</NavLink>
+                <NavLink href="/addDestination">Add-Destination</NavLink>
               </li>
             </ul>
           </div>
@@ -92,7 +92,7 @@ const Navbar = () => {
                 <NavLink href="/mybookings">My Bookings</NavLink>
               </li>
               <li>
-                <NavLink href="/admin">Admin</NavLink>
+                 <NavLink href="/addDestination">Add-Destination</NavLink>
               </li>
           </ul>
         </div>
